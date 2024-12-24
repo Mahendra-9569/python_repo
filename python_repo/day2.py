@@ -2,6 +2,7 @@
 print() function is used to print the output on the screen
 
 print() function can take any number of arguments
+print() function can take any type of arguments
 """
 print("Hello World", 7)
 print(5)
